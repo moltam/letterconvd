@@ -1,6 +1,8 @@
 # Letterboxd CSV converter
 
-Converts an IMDb export file (CSV) into Letterboxd format.
+Converts an IMDb export file (CSV) into [Letterboxd format](http://letterboxd.com/about/importing-data/).
+
+You can import the converted file on the Letterboxd [import page](http://letterboxd.com/import/).
 
 ## Usage
 
