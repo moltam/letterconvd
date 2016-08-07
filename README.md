@@ -16,4 +16,6 @@ The output is created next to the inputfile.
 
 ## License
 
-The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+The MIT License (MIT). Please see [License File](LICENSE) for more information.
+
+[link-author]: https://github.com/moltam
