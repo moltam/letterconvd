@@ -1,4 +1,4 @@
-# IMDb to Letterboxd CSV
+# Letterboxd CSV converter
 
 Converts an IMDb export file (CSV) into Letterboxd format.
 
